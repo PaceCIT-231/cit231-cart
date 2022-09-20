@@ -19,6 +19,5 @@ function addToCart(cookie) {
 function checkout() {
     console.log('User is checking out.')
     //Let your customer know how many items they are purchasing and the price
-    //Prompt the user for their name and address so you can mail them their purchase
     
 }
