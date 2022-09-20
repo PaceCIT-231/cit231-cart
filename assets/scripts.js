@@ -11,6 +11,7 @@ function addToCart(cookie) {
    //add 1 to the itemCount variable
    //add the correct price to the currentPrice variable
    //output the information each time the user adds something to the cart
+   console.log('The user is adding this type of cookie to their cart: ' , cookie) 
 
 }
 
