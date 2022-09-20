@@ -8,6 +8,9 @@ function addToCart(cookie) {
         party press: 35
         chocolate chip: 25
     */
+   //add 1 to the itemCount variable
+   //add the correct price to the currentPrice variable
+   //output the information each time the user adds something to the cart
 
 }
 
