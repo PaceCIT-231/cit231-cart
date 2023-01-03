@@ -19,9 +19,8 @@ h2 {
     text-align: center;
     padding: 5px;
     border-radius: 6px;
-    position: absolute;
-    top: 50%;
-    right: 30%; 
+    position: relative;
+    right: 50px;
     z-index: 1;
 }
 #cart .hoverText::after {
